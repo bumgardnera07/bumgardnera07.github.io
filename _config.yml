@@ -19,15 +19,15 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "bumgardnerga@gmail.com"
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble:
+  facebook:
   flickr:
   github: "madebymunsters/type-theme"
   google_plus:
-  instagram: "joeykirk"
+  instagram:
   linkedin:  # Full URL
   pinterest:
   reddit:
@@ -40,7 +40,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-104204078-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
