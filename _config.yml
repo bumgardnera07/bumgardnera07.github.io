@@ -7,11 +7,11 @@ theme_settings:
   title: George Bumgardner
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "A castaway adrift in an ocean of 0s and 1s" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Some days, I couldn't hack my way out of a shoe.</h1>
+     <h1>The ocean of code is vast and deep. I'm just trying to keep my head above water.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -26,15 +26,15 @@ theme_settings:
   flickr:
   github: "bumgardnera07"
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: "thatgab"
+  linkedin:  "https://www.linkedin.com/in/george-bumgardner-14268036/"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: "NCgiantgeorge"
   wordpress:
   youtube:
 
