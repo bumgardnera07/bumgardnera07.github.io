@@ -3,7 +3,10 @@ layout: post
 title: AddressBloc
 feature-img: "img/house.png"
 thumbnail-path: "img/house.png"
-short-description: A Ruby CLI for managing an Address Book
+short-description: A Ruby CLI app for managing an Address Book
 
 ---
-We built a Spotify clone that stores album info, artwork, and audio files to be served to the User through a conventional JS model. We then refactored the entire application with Angular to a Single Page Application using MVC framework.
+
+<a href="https://github.com/bumgardnera07/address-bloc/">Github</a>
+
+This Ruby app runs in the terminal with command line interaction model. After starting the program, the user can manually enter address records or import data using a csv file. The user can then query and manage those records from the command line.
