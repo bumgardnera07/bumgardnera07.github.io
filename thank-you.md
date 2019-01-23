@@ -1,5 +1,5 @@
 ---
-layout: thanks
+layout: page
 title: Thank You
 permalink: /thank-you/
 feature-img: "img/wave.png"
