@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming Soon
+title: ¯\_(ツ)_/¯
 feature-img: ""
 thumbnail-path: "img/dotdotdot.png"
 short-description: I'm always looking for my next fun project
