@@ -11,4 +11,4 @@ short-description: Connect 4 in the Ruby Console
 This Ruby was developed using the Cloud9 IDE. The game runs directly in the terminal with the command: "ruby Game.rb"
 
 
-![Connect4](/img/Connect4.png)
+![Connect4](/img/Connect4.PNG)
