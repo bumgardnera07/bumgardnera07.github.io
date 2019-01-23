@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Connect4
+title: <a href="https://github.com/bumgardnera07/connect4">Connect4</a>
 feature-img: ""
 thumbnail-path: "img/redpiece.png"
 short-description: Connect 4 in the Ruby Console
