@@ -6,4 +6,4 @@ thumbnail-path: "img/CharlotteUltimate.png"
 short-description: An app for managing score reporting
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+I am an avid ultimate player and have volunteered time to playing and organizing ultimate in the Charlotte area for over a decade. One of my current ongoing projects is a small mobile app to easy the submission of scores and roster management for <a href= "http://www.charlotteultimate.com/">Charlotte Ultimate</a> leagues.
