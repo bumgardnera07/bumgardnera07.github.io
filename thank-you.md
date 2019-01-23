@@ -6,4 +6,4 @@ feature-img: "img/wave.png"
 hide: true
 ---
 
-{:.center} Thanks for reaching out! I'll get back to you ASAP.
+Thanks for reaching out! I'll get back to you ASAP.
