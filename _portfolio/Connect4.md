@@ -14,4 +14,4 @@ This Ruby was developed using the Cloud9 IDE. The game runs directly in the term
 ![alt text][logo]
 
 
-[logo]:"../img/Connect4.PNG""Connect4"
+[logo]:"img/Connect4.PNG""Connect4"
