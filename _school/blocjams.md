@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlocJams
-feature-img: "img/headphones.png"
+feature-img: ""
 thumbnail-path: "img/headphones.png"
 short-description: A Spotify-style SPA created in JS Angular using MVC
 
