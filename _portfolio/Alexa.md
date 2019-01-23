@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Alexa Skills
-feature-img: "img/magic8.png"
-thumbnail-path: "img/magic8.png"
+feature-img: "img/Magic8.png"
+thumbnail-path: "img/Magic8.png"
 short-description: I've released a few Skills for Amazon Alexa.
 
 ---
