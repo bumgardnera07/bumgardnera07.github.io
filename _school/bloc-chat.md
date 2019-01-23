@@ -2,7 +2,7 @@
 layout: post
 title: Bloc-Chat
 feature-img: ""
-thumbnail-path: "img/headphones.png"
+thumbnail-path: "img/chat.png"
 short-description: A Spotify-style SPA created in JS Angular using MVC
 
 ---
