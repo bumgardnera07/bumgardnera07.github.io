@@ -65,6 +65,7 @@ collections:
      output: true
   school:
      output: true
+     permalink: /portfolio/:name
 
 # BUILD SETTINGS
 markdown: kramdown
