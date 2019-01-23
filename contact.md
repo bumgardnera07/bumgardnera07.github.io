@@ -11,7 +11,7 @@ Let's get in touch!
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://bumgardnera07.github.io/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
-  <input type='email' name='email' placeholder='Your E-mail Address' />
+  <input type='email' name='email' placeholder='Your E-mail Address' /><br>
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
 </form>
