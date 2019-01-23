@@ -2,7 +2,7 @@
 layout: post
 title: AddressBloc
 feature-img: ""
-thumbnail-path: "img/headphones.png"
+thumbnail-path: "img/house.png"
 short-description: A Spotify-style SPA created in JS Angular using MVC
 
 ---
