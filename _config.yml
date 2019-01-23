@@ -11,7 +11,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>The ocean of code is vast and deep. I'm just trying to keep my head above water.</h1>
+     <h1>The ocean of code is vast and deep.<br/> I'm just trying to keep my head above water.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
