@@ -12,11 +12,11 @@ layout: default
 
   <div class="work">
     <h2>School Projects</h2>
-    {% for project in site.school limit:6 %}
+    {% for proj in site.school limit:6 %}
         <li>
-          <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
-          <a href="{{ project.url }}">{{ project.title }}</a>
-          <p>{{ project.short-description }}</p>
+          <img src="{{ proj.thumbnail-path }}" alt="{{ proj.title }}"/>
+          <a href="{{ proj.url }}">{{ proj.title }}</a>
+          <p>{{ proj.short-description }}</p>
         </li>
     {% endfor %}
   </div>
