@@ -2,7 +2,7 @@
 layout: contact
 title: Contact
 permalink: /contact/
-feature-img: img/messagebottle.jpeg
+feature-img: img/messagebottle.png
 ---
 
 Let's get in touch!
