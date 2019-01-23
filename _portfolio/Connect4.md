@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Connect4.rb
-feature-img: ""
+feature-img: "img/game.rb.png"
 thumbnail-path: "img/redpiece.png"
 short-description: Connect 4 in the Ruby Console
 
