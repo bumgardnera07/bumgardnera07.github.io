@@ -6,4 +6,6 @@ thumbnail-path: "img/AgGrowlogo.png"
 short-description: An ongoing computer vision/ machine learning project
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+<a href="https://github.com/bumgardnera07/ForesAI">Computer Vision Framework</a>
+
+Some friends and I had an idea to use computer vision to help farmer's better estimate the yield of upcoming harvests by identifying and monitoring growing fruit. One of the outcomes of that project was this computer vision framework which attaches our trained CV model to a large variety of video inputs. With this framework, our fruit-identifying algorithm could run on anything from a drone, to a video on youtube, to a cellphone, identifying fruit in near real-time.  
