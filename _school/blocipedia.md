@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blocipedia
-feature-img: "img/file.png"
+feature-img: ""
 thumbnail-path: "img/file.png"
 short-description: A Wikipedia-style app built in Ruby
 
