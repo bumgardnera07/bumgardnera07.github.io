@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Connect4
+title: Connect4.rb
 feature-img: ""
 thumbnail-path: "img/redpiece.png"
 short-description: Connect 4 in the Ruby Console
@@ -14,4 +14,4 @@ This Ruby was developed using the Cloud9 IDE. The game runs directly in the term
 ![alt text][logo]
 
 
-[logo]: "img/Connect4.PNG" "Connect4"
+[logo]:"../img/Connect4.PNG""Connect4"
