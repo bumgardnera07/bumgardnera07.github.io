@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aggrow, Inc.
-feature-img: ""
+feature-img: "img/melon.png"
 thumbnail-path: "img/AgGrowlogo.png"
 short-description: An ongoing computer vision/ machine learning project
 
