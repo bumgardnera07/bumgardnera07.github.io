@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Blocipedia
-feature-img: ""
+feature-img: "img/file.png"
 thumbnail-path: "img/file.png"
-short-description: A Spotify-style SPA created in JS Angular using MVC
+short-description: A Wikipedia-style app built in Ruby
 
 ---
-We built a Spotify clone that stores album info, artwork, and audio files to be served to the User through a conventional JS model. We then refactored the entire application with Angular to a Single Page Application using MVC framework.
+<a href="https://github.com/bumgardnera07/blocipedia">Github</a>
+
+This Ruby app implements most of the functionality of Wikipedia. It contains a collection of pages that can be edited collaboratively. User authentication enables persistent users and the creation of private wikis that can be shared and edited by specific users, as well as public ones.
