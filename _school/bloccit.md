@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Bloccit
-feature-img: ""
+feature-img: "img/thumb.png"
 thumbnail-path: "img/thumb.png"
-short-description: A Spotify-style SPA created in JS Angular using MVC
+short-description: A Reddit-style multi-page created with Ruby Rails
 
----
-We built a Spotify clone that stores album info, artwork, and audio files to be served to the User through a conventional JS model. We then refactored the entire application with Angular to a Single Page Application using MVC framework.
+--- 
+
+<a href="https://github.com/bumgardnera07/bloccit">Github</a>
+
+This app includes all of the functionality of Reddit including persistent users, topics and posts, up and down voting, and favorite posts.
