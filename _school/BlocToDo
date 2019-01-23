@@ -1,9 +1,10 @@
 ---
 layout: post
 title: BlocToDo
-feature-img: ""
+feature-img: "img/Game.png"
 thumbnail-path: "img/todo.png"
-short-description: A Spotify-style SPA created in JS Angular using MVC
+short-description: A Ruby Command Line To-Do Application
 
 ---
-We built a Spotify clone that stores album info, artwork, and audio files to be served to the User through a conventional JS model. We then refactored the entire application with Angular to a Single Page Application using MVC framework.
+<a href="https://github.com/bumgardnera07/todo2">GitHub</a>
+This Todo App, coded in Ruby, has external APIs that authenticate user credentials and allow for the creation and deletion of lists and tasks from the CLI.
