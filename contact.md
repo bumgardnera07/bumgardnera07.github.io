@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: contact
 title: Contact
 permalink: /contact/
 feature-img: img/wave.png
