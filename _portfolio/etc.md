@@ -6,4 +6,4 @@ thumbnail-path: "img/dotdotdot.png"
 short-description: I'm always looking for my next fun project
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+Coding is a way of life! I'm always trying to keep my eyes open for something to automate or otherwise make ork in some new, cool way. If you have a great project idea, let me know with my contact form at the top of the page!
