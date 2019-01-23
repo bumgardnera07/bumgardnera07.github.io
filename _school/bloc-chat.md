@@ -3,7 +3,9 @@ layout: post
 title: Bloc-Chat
 feature-img: ""
 thumbnail-path: "img/chat.png"
-short-description: A Spotify-style SPA created in JS Angular using MVC
+short-description: A JS Angular chat client  
 
 ---
-We built a Spotify clone that stores album info, artwork, and audio files to be served to the User through a conventional JS model. We then refactored the entire application with Angular to a Single Page Application using MVC framework.
+<a href="https://github.com/bumgardnera07/bloc-chat1">Github</a>
+
+This chat client uses Angular and cookies to set up responsive chat rooms. Chat messages are visible in a list for all users in the room to view. I learned in this project how to use modals to accept user input in browser for things like chat room names and usernames. You can host this code locally with npm to try out the chat features.
