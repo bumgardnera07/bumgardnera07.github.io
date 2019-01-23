@@ -2,7 +2,7 @@
 layout: post
 title: BlocToDo
 feature-img: ""
-thumbnail-path: "img/headphones.png"
+thumbnail-path: "img/todo.png"
 short-description: A Spotify-style SPA created in JS Angular using MVC
 
 ---
