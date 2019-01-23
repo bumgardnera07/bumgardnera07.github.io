@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Charlotte Ultimate
-feature-img: ""
+feature-img: "img/ultimate.png"
 thumbnail-path: "img/CharlotteUltimate.png"
 short-description: An app for managing score reporting
 
