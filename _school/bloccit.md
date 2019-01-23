@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 feature-img: ""
-thumbnail-path: "img/headphones.png"
+thumbnail-path: "img/thumb.png"
 short-description: A Spotify-style SPA created in JS Angular using MVC
 
 ---
