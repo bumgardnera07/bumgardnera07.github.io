@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KeleAPI
+title: BlocToDo
 feature-img: ""
 thumbnail-path: "img/headphones.png"
 short-description: A Spotify-style SPA created in JS Angular using MVC
