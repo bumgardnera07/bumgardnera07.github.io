@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc-Chat
-feature-img: ""
+feature-img: "img/chat.png"
 thumbnail-path: "img/chat.png"
 short-description: A JS Angular chat client  
 
