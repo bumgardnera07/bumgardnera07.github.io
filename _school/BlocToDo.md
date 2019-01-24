@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlocToDo
-feature-img: ""
+feature-img: "img/todolist.png"
 thumbnail-path: "img/todo.png"
 short-description: A Ruby Command Line To-Do Application
 
