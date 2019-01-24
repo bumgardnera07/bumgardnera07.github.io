@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: post
 title: Contact
 permalink: /contact/
 feature-img: img/messagebottle.png
