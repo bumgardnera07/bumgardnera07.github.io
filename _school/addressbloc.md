@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AddressBloc
-feature-img: ""
+feature-img: "img/rolodex.png"
 thumbnail-path: "img/house.png"
 short-description: A Ruby CLI app for managing an Address Book
 
