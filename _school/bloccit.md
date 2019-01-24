@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloccit
-feature-img: ""
+feature-img: "img/bloccit.png"
 thumbnail-path: "img/thumb.png"
 short-description: A Reddit-style multi-page created with Ruby Rails
 
