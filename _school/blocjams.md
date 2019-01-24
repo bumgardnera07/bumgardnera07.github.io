@@ -7,6 +7,7 @@ short-description: A Spotify-style SPA created in JS Angular using MVC
 
 ---
 <a href="https://github.com/bumgardnera07/bloc-jams">Github Vanilla JS</a>
+
 <a href="https://github.com/bumgardnera07/bloc-jams-angular">Github Angular</a>
 
 
