@@ -3,7 +3,7 @@ layout: post
 title: Aggrow, Inc.
 feature-img: "img/melon.png"
 thumbnail-path: "img/AgGrowlogo.png"
-short-description: An ongoing computer vision/ machine learning project
+short-description: An ongoing computer vision project
 
 ---
 <a href="https://github.com/bumgardnera07/ForesAI">Computer Vision Framework</a>
