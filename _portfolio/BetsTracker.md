@@ -3,7 +3,7 @@ layout: post
 title: What Are the Odds? (WIP)
 feature-img: "img/han.png"
 thumbnail-path: "img/coin.png"
-short-description: An app for tracking personal wagers with your friends
+short-description: An app for tracking friendly wagers
 
 ---
 Have you ever played <a href="https://what-are-the-odds.info/">What Are the Odds?</a>
